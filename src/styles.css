@@ -1,0 +1,30 @@
+/* styles.css */
+/* .radioButton {
+  display: block;
+  padding: 20px;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid #d9d9d9;
+  color: #000;
+  font-size: 18px;
+  cursor: pointer;
+} */
+.rounded-icon {
+  font-size: "25px";
+  margin-right: "10px";
+  border-radius: 50%; 
+  background-color: #dde; 
+  padding: 10px; 
+  color: #4069ff;
+}
+/* .radioButton:hover {
+  border-color: #40a9ff;
+} */
+
+.ant-radio-button-wrapper-checked {
+  border-width: 2px;
+  border-color: #4069ff !important;
+}
